@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This lab challenwswges you asks sum to build an Etsy clone, 'Zetsy', by writing
+This lab challenwswgit ges you asks sum to build an Etsy clone, 'Zetsy', by writing
 your own HTML & CSS from scratch to match the mockup image:
 
 
