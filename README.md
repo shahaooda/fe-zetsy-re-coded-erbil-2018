@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This lab challenges you asks you to build an Etsy clone, 'Zetsy', by writing
+This lab challenwswgit ges you asks sum to build an Etsy clone, 'Zetsy', by writing
 your own HTML & CSS from scratch to match the mockup image:
 
 
@@ -37,3 +37,4 @@ use your Google-Fu to complete the challenge!
  * [Bonus: CSS3 Transitions](http://css-tricks.com/almanac/properties/t/transition/)
  * [Dev Tools Tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
  * [Digital Color Meter Tutorial](http://www.techrepublic.com/blog/apple-in-the-enterprise/discover-the-digitalcolor-meter-tool-on-your-mac/#)
+l
